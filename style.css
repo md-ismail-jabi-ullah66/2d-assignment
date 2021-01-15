@@ -1,0 +1,27 @@
+.logo{
+       
+        height: 39.27px;
+        left: 50px;
+        top: 15px;
+}
+.css-color{
+    position: absolute;
+}
+.color-1{
+    color: #FA804C;
+}
+.color-2{
+    color: #3D4FF3;
+}
+.margin{
+    margin: 1em;
+}
+.high-width{
+    height: 2em;
+    width: 2em;
+    font:b;
+}
+.css-font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:bold;
+}
